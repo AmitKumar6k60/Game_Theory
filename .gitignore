@@ -1,0 +1,26 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/sports-booking-frontend/node_modules
+/sports-booking-frontend/.pnp
+/sports-booking-frontend/.pnp.js
+
+# testing
+/sports-booking-frontend/coverage
+
+# production
+/sports-booking-frontend/build
+
+# misc
+/sports-booking-frontend/.DS_Store
+/sports-booking-frontend/.env.local
+/sports-booking-frontend/.env.development.local
+/sports-booking-frontend/.env.test.local
+/sports-booking-frontend/.env.production.local
+
+/sports-booking-frontend/npm-debug.log*
+/sports-booking-frontend/yarn-debug.log*
+/sports-booking-frontend/yarn-error.log*
+
+/sports-booking-backend/node_modules
+/sports-booking-backend/.env
