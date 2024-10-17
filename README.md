@@ -3,6 +3,7 @@
 The **Sports Booking Application** is a web-based platform that allows users to browse and book sports facilities across different centers. Users can view available resources (e.g., courts, fields) and make bookings for specific time slots. The application includes CRUD operations for resources and bookings, ensuring efficient management of sports venues.
 
 ## Table of Contents
+- [Deployment](#deployement)
 - [Images](#images)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
@@ -11,6 +12,18 @@ The **Sports Booking Application** is a web-based platform that allows users to 
 - [Setup and Installation](#setup-and-installation)
 
 ---
+## Deployement
+
+   Frontend and Backend facing problem to communicate because of error :  net::ERR_SSL_PROTOCOL_ERROR , was unable to resolve in given time.
+   
+   Frontend Deployed on vercel : https://game-theory-frontend.vercel.app/ 
+   
+   Backend Deployed on AWS with PublicIPs: 13.60.199.62
+   
+   The application is functioning properly on localhost.
+   
+---
+
 ## Images
 ![Screenshot 2024-10-17 at 1 32 15 AM (2)](https://github.com/user-attachments/assets/9635a457-e447-4a16-853e-93aa0bc8fb2b)
 ![Screenshot 2024-10-17 at 1 33 40 AM (2)](https://github.com/user-attachments/assets/0b386db0-d27e-40de-a1e8-0befc96efb83)
